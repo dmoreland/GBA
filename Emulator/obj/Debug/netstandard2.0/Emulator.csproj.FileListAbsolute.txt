@@ -1,0 +1,9 @@
+C:\Users\David\Source\Repos\GBA\Emulator\bin\Debug\netstandard2.0\Emulator.deps.json
+C:\Users\David\Source\Repos\GBA\Emulator\bin\Debug\netstandard2.0\Emulator.dll
+C:\Users\David\Source\Repos\GBA\Emulator\bin\Debug\netstandard2.0\Emulator.pdb
+C:\Users\David\Source\Repos\GBA\Emulator\obj\Debug\netstandard2.0\Emulator.csprojResolveAssemblyReference.cache
+C:\Users\David\Source\Repos\GBA\Emulator\obj\Debug\netstandard2.0\Emulator.csproj.CoreCompileInputs.cache
+C:\Users\David\Source\Repos\GBA\Emulator\obj\Debug\netstandard2.0\Emulator.AssemblyInfoInputs.cache
+C:\Users\David\Source\Repos\GBA\Emulator\obj\Debug\netstandard2.0\Emulator.AssemblyInfo.cs
+C:\Users\David\Source\Repos\GBA\Emulator\obj\Debug\netstandard2.0\Emulator.dll
+C:\Users\David\Source\Repos\GBA\Emulator\obj\Debug\netstandard2.0\Emulator.pdb
